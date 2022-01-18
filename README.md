@@ -1,4 +1,4 @@
-# Script2.py
+# gov.ie-dashboard
 
 This script is part of an assignment that I completed as part of a Software Applications module in my 3rd year of college. This was the project outline:
 
